@@ -1,7 +1,7 @@
 * 한글과 관련된 여러가지 기능을 포함한 Python 라이브러리
 * Python 2.7 을 기준으로 개발
 
-# + Korean
+# Korean
 1. 소개
   * 기본적인 한글 클래스
   * 자음과 모음 결합기능 지원
@@ -57,8 +57,7 @@
   >>> 워
   ```
   
-  * 자음
-# + CMU To Korean
+# CMU To Korean
 1. 소개
   * Carnegie Mellon University 에서 제공하는 영어 발음기호를 이용해 영어를 한글 발음으로 변환하는 클래스
   * 발음 기호를 한글로 직역 했을때의 어색한 단어 일부 교정(Chocolate -> 초클랫, 초콜렛이 적합)
